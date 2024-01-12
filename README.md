@@ -1,2 +1,2 @@
 # Solow_model
-Una descripción teórica y práctica del modelo de Solow
+Notas y ejercicios de crecimiento económico. 
